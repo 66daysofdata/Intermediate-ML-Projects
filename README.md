@@ -16,3 +16,7 @@ This much data needs to be represented beautifully in order to analyze the rides
 **Project idea** – The Myers Briggs Type Indicator is a personality type system that divides a person into 16 distinct personalities based on introversion, intuition, 
 thinking and perceiving capabilities. We can identify the personality of a person from the type of posts they put on social media.<br>
 Dataset: <a href = "https://www.kaggle.com/datasnaek/mbti-type">Personality Prediction Dataset</a>
+
+<br>
+
+More project ideas coming soon!! 🔔🔔🔔
