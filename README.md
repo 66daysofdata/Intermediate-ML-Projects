@@ -2,8 +2,8 @@
 
 1. **Music Genre Classification**
 
-**Project Idea**: The idea behind this python machine learning project is to develop a machine learning project and automatically classify different musical genres from audio. 
-We need to classify these audio files using their low-level features of frequency and time domain.
+- **Project Idea**:
+   The idea behind this python machine learning project is to develop a machine learning project and automatically classify different musical genres from audio.  We need to classify these audio files using their low-level features of frequency and time domain.
 
 2. **Bitcoin Price Predictor**
 
