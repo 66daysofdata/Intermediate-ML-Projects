@@ -4,7 +4,7 @@
 **Project Idea**: The idea behind this python machine learning project is to develop a machine learning project and automatically classify different musical genres from audio. 
 We need to classify these audio files using their low-level features of frequency and time domain.
 
-2. **Bitcoin Price Predictor **
+2. **Bitcoin Price Predictor**
 **Project idea** – The bitcoin price predictor is a useful project. The blockchain technology is increasing and there are many digital currencies rising. 
 This project will help you predict the price of the bitcoin using previous data.
 
